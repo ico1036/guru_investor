@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+
+# Build Artifacts
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Discussion Results (Generated files)
+discussion_result_*.md
+discussion_results_*.json
+
+# MacOS
+.DS_Store
+

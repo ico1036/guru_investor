@@ -1,0 +1,18 @@
+# Core dependencies for Investment Guru Multi-Agent System
+# Note: claude-agent-sdk might need to be installed separately or may have different name
+# For now, using basic Python dependencies
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+
+# Optional: For enhanced JSON handling
+ujson>=5.0.0
+
+# Optional: For better logging
+structlog>=22.0.0
+
+# Development dependencies (optional)
+# Uncomment if you want to install dev tools
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+# black>=22.0.0
+# mypy>=0.991
